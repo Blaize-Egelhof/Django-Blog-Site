@@ -140,3 +140,7 @@ body {
     background: transparent;
     border: none;
 }
+
+.dark-bg {
+    background-color: #445261 !important;
+}
